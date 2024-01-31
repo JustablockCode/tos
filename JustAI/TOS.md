@@ -1,0 +1,11 @@
+# General
+The AI is "modified" by me(justablock). We DO NOT own this AI. We are NOT responsible for what AI shows or do to you. You must follow Discord TOS to use this AI.
+
+# Security
+This AI is not secure! Use it at your own risk. We do NOT own this AI. AI CAN trick you into scams or malware.
+
+# Privacy
+This AI can secretly share your data. AI stores data in its database. If data is leaked we are not responsible for this.
+
+# Copyright
+This AI was made by "Shapes. Inc". We are NOT responsible for things that can happen when you are using AI.
