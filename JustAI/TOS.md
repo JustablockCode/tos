@@ -1,3 +1,5 @@
+# TOS for using JustAI:
+
 # General
 The AI is "modified" by me(justablock). We DO NOT own this AI. We are NOT responsible for what AI shows or do to you. You must follow Discord TOS to use this AI.
 
